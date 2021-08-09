@@ -1,0 +1,4 @@
+export enum TopMovieActionType {
+    GET_TOP_MOVIES = "GET_TOP_MOVIES",
+    TOGGLE_TOP_MOVIES_WATCHED = "TOGGLE_TOP_MOVIES_WATCHED"
+}
